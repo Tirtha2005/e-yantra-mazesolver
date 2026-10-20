@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/simulation/modelsim
+vfrequency_scaling
+Z1 !s110 1759944994
+!i10b 1
+!s100 `9B06QFjN9ReRan;79UQM3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkgTM;hIUobfcK8kB2]O1W0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759511755
+8C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/frequency_scaling.v
+FC:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/frequency_scaling.v
+!i122 2
+L0 2 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1759944994.000000
+!s107 C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/frequency_scaling.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code|C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/frequency_scaling.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code
+Z8 tCvgOpt 0
+vpwm_generator
+R1
+!i10b 1
+!s100 d?TXgZcOVW>DojD3SE;n>1
+R2
+IcNaI3i9zBLeOaR]TlWbRk1
+R3
+R0
+w1759944638
+8C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/pwm_generator.v
+FC:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/pwm_generator.v
+!i122 1
+L0 1 45
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/pwm_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code|C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/pwm_generator.v|
+!i113 1
+R6
+R7
+R8
+vt1a_fs_pwm_bdf
+R1
+!i10b 1
+!s100 QmYW6@Qcm;YRX0Ih`S<Jl3
+R2
+I3ReJkoOS7Dg>;QWcBP[oE1
+R3
+R0
+w1759512103
+8C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+FC:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+!i122 0
+L0 20 35
+R4
+r1
+!s85 0
+31
+!s108 1759944993.000000
+!s107 C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code|C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!i113 1
+R6
+R7
+R8
+vtb
+R1
+!i10b 1
+!s100 >YM?AV23cO_g9bDz@3jNk2
+R2
+IC]:EImFR?ie0bZQIiZ7QA1
+R3
+R0
+w1759933133
+8C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/.test/tb.v
+FC:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/.test/tb.v
+!i122 3
+L0 4 101
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/.test|C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/.test/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/VICTUS/Desktop/mb_2603_task1a/t1a_fs_pwm/.test
+R8

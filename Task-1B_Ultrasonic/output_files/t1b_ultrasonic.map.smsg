@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at t1b_ultrasonic.v(46): always construct contains both blocking and non-blocking assignments File: C:/Users/VICTUS/Downloads/t1b_ultrasonic/t1b_ultrasonic/code/t1b_ultrasonic.v Line: 46

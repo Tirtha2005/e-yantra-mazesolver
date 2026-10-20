@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/simulation/modelsim
+vadder
+!s110 1760379390
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=4I28C7;@hS`7KWnLoQnK1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1760098760
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/adder.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/adder.v
+!i122 13
+L0 4 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1760379390.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/adder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components
+Z7 tCvgOpt 0
+valu
+!s110 1760379388
+!i10b 1
+!s100 B@4Dog2JU[l7g2^FOeX@B3
+R1
+IPXiMZLC;F8j6<eS`50L8z2
+R2
+R0
+w1760379251
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu.v
+!i122 12
+L0 2 27
+R4
+r1
+!s85 0
+31
+!s108 1760379388.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu.v|
+!i113 1
+R5
+R6
+R7
+valu_decoder
+!s110 1760379387
+!i10b 1
+!s100 gRX^9VgIWj86QOC5=5jC_3
+R1
+I]V<<n`K<K_>W[?W;N[8_z2
+R2
+R0
+w1760379277
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu_decoder.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu_decoder.v
+!i122 11
+L0 2 34
+R4
+r1
+!s85 0
+31
+!s108 1760379387.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/alu_decoder.v|
+!i113 1
+R5
+R6
+R7
+vcontroller
+!s110 1760379386
+!i10b 1
+!s100 0PiCba4f3zo700[cP=XAF3
+R1
+In4XL:[lH@A6kQ`@hRFd343
+R2
+R0
+w1760361807
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/controller.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/controller.v
+!i122 10
+Z8 L0 4 25
+R4
+r1
+!s85 0
+31
+!s108 1760379386.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/controller.v|
+!i113 1
+R5
+R6
+R7
+vdata_mem
+!s110 1760379376
+!i10b 1
+!s100 n0dZJC0dggaaalPh;mMK;0
+R1
+Ia[2L>=;N>LooNV=?4Ph4O3
+R2
+R0
+w1760300253
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/data_mem.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/data_mem.v
+!i122 2
+L0 2 91
+R4
+r1
+!s85 0
+31
+!s108 1760379376.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/data_mem.v|
+!i113 1
+R5
+Z9 !s92 -vlog01compat -work work +incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code
+R7
+vdatapath
+!s110 1760379385
+!i10b 1
+!s100 PBb>bY:3Nm:Ri:2gWKAjh2
+R1
+IQE;HUeZ?[QJa`f@Rn_51W2
+R2
+R0
+w1760299610
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/datapath.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/datapath.v
+!i122 9
+L0 3 48
+R4
+r1
+!s85 0
+31
+!s108 1760379385.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/datapath.v|
+!i113 1
+R5
+R6
+R7
+vimm_extend
+!s110 1760379384
+!i10b 1
+!s100 KCY0HN8a_SDDT@o^3341e2
+R1
+I;^9Y1VOd^i0MWD6e[SI<j1
+R2
+R0
+w1760300338
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/imm_extend.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/imm_extend.v
+!i122 8
+L0 3 21
+R4
+r1
+!s85 0
+31
+!s108 1760379383.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/imm_extend.v|
+!i113 1
+R5
+R6
+R7
+vinstr_mem
+Z10 !s110 1760379391
+!i10b 1
+!s100 _2]cbk6YNQ9ECcKm2oV;A0
+R1
+ID22>D?=5`]`XZKV7d7a[B1
+R2
+R0
+w1760114860
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/instr_mem.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/instr_mem.v
+!i122 14
+L0 4 18
+R4
+r1
+!s85 0
+31
+Z11 !s108 1760379391.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/instr_mem.v|
+!i113 1
+R5
+R9
+R7
+vmain_decoder
+!s110 1760379382
+!i10b 1
+!s100 MfM8j4]Q>NAbIc@42DaZ60
+R1
+IeFbcjT`6H^cK=oEE=TboM1
+R2
+R0
+w1760301073
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/main_decoder.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/main_decoder.v
+!i122 7
+L0 3 45
+R4
+r1
+!s85 0
+31
+!s108 1760379382.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/main_decoder.v|
+!i113 1
+R5
+R6
+R7
+vmux2
+!s110 1760379381
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R1
+I65J_jaQ?dzSlF1hz8co3X0
+R2
+R0
+R3
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux2.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux2.v
+!i122 6
+Z12 L0 4 9
+R4
+r1
+!s85 0
+31
+!s108 1760379381.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux2.v|
+!i113 1
+R5
+R6
+R7
+vmux4
+!s110 1760379380
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R1
+IP:fbb<C^11lTmlY8=_CMV1
+R2
+R0
+R3
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux4.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux4.v
+!i122 5
+R12
+R4
+r1
+!s85 0
+31
+!s108 1760379380.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/mux4.v|
+!i113 1
+R5
+R6
+R7
+vreg_file
+!s110 1760379379
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R1
+I_7;_BFHJ?h5I5LM6R>SEk3
+R2
+R0
+R3
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reg_file.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reg_file.v
+!i122 4
+L0 8 27
+R4
+r1
+!s85 0
+31
+!s108 1760379379.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reg_file.v|
+!i113 1
+R5
+R6
+R7
+vreset_ff
+!s110 1760379378
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R1
+I6Mhk8>Zo?U4hkLe9;N2HO2
+R2
+R0
+R3
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reset_ff.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reset_ff.v
+!i122 3
+L0 4 12
+R4
+r1
+!s85 0
+31
+!s108 1760379377.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/components/reset_ff.v|
+!i113 1
+R5
+R6
+R7
+vriscv_cpu
+!s110 1760379375
+!i10b 1
+!s100 ZK`dJRC9?m3cFgG<QF??N2
+R1
+IGNADi4]FTTeFnXGWYajLn2
+R2
+R0
+w1760364308
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/riscv_cpu.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/riscv_cpu.v
+!i122 1
+L0 4 24
+R4
+r1
+!s85 0
+31
+!s108 1760379375.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/riscv_cpu.v|
+!i113 1
+R5
+R9
+R7
+vt1c_riscv_cpu
+!s110 1760379374
+!i10b 1
+!s100 _06EPmW0mYWo69XjmhmhY3
+R1
+IImbW5Z;bBZQdk7oHIkzMS1
+R2
+R0
+w1760364117
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+!i122 0
+R8
+R4
+r1
+!s85 0
+31
+!s108 1760379374.000000
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!i113 1
+R5
+R9
+R7
+vtb
+R10
+!i10b 1
+!s100 jTJU_lE5VPADO9S@VW7GX3
+R1
+I^<7Gi3HKmL9PO=TJ7D:7R3
+R2
+R0
+w1760114968
+8C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/.test/tb.v
+FC:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/.test/tb.v
+!i122 15
+L0 3 527
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/.test|C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/.test/tb.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/sathv/Downloads/SATHVIK_02/tirtha/t1c_riscv_cpu/.test
+R7
